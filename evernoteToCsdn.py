@@ -13,4 +13,7 @@ f = open('D:\WorkSpace\python_ws\EvernoteToCsdn\EvernoteToCsdn\yinxiang_online.t
 yinxiang_html = f.read()
 f.close()
 
-print yinxiang_html
+# print yinxiang_html
+
+image_relative_path = re.findall('<p style="margin: 0 0 1.1em;" class="cye-lm-tag"><img x-evernote-mime="image/png" class="en-media" src="(.*?)"', yinxiang_html, re.S)
+print image_relative_path
