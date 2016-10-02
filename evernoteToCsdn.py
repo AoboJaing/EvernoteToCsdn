@@ -9,3 +9,8 @@ f.close()
 a = re.findall('!\[Alt text\]\((.*?)\)', md, re.S)
 print a
 
+f = open('D:\WorkSpace\python_ws\EvernoteToCsdn\EvernoteToCsdn\yinxiang_online.txt', 'r')
+yinxiang_html = f.read()
+f.close()
+
+print yinxiang_html
