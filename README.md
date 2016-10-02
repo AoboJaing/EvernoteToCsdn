@@ -36,14 +36,14 @@ print md.decode('utf-8')
 
 运行输出：（在 **Run** 窗口中）
 
-![Alt text](./1475380236844.png)
+![Alt text](./img/1475380236844.png)
 
 > 但是同样的程序，在 **Terminal** 窗口中运行就是错误的，我也不知道为什么？
 > ```
 > > C:\Python27\python.exe -i EvernoteToCsdn\evernoteToCsdn.py
 > ```
 > 
-> ![Alt text](./1475380326494.png)
+> ![Alt text](./img/1475380326494.png)
 >  
 >  先不管这个问题。
 
@@ -75,7 +75,7 @@ print a
 ```
 <p style="margin: 0 0 1.1em;"><img class="en-media" src="/shard/s53/res/2f08130e-d47e-4fc2-b6be-0256abbaf3dd" data-en-resource-reference="resource-43" style="height: auto;"></p>
 ```
-![Alt text](./1475382711908.png)
+![Alt text](./img/1475382711908.png)
 
 将整个源代码复制到`txt` 文件里面后，这段源代码的样子：
 
@@ -83,7 +83,7 @@ print a
 <p style="margin: 0 0 1.1em;" class="cye-lm-tag"><img x-evernote-mime="image/png" class="en-media" src="/shard/s53/res/2f08130e-d47e-4fc2-b6be-0256abbaf3dd" style="border: 0; vertical-align: middle; max-width: 100%;" hash="ae5482e2a9b9e7bce8f5f77c76877d39" type="image/png" title="" alt="Alt text" longdesc="./1475185329838.png"></p>
 ```
 
-![Alt text](./1475382904244.png)
+![Alt text](./img/1475382904244.png)
 
 
 ---
@@ -100,7 +100,7 @@ print yinxiang_html
 
 运行：
 
-![Alt text](./1475385702731.png)
+![Alt text](./img/1475385702731.png)
 
 
 ---
@@ -132,7 +132,7 @@ https://app.yinxiang.com/shard/s53/res/d6ae5c20-56e4-4e3b-ab3c-c80acec89859
 在 `install_PCL.md` 文件中：
 
 ```
-![Alt text](./1475185222317.png)
+![Alt text](./img/1475185222317.png)
 ```
 
 ---
@@ -145,7 +145,7 @@ https://app.yinxiang.com/shard/s53/res/d6ae5c20-56e4-4e3b-ab3c-c80acec89859
 
 比如：
 
-![Alt text](./1475387545436.png)
+![Alt text](./img/1475387545436.png)
 
 ---
 
@@ -158,7 +158,7 @@ print image_relative_path
 
 运行：
 
-![Alt text](./1475387809022.png)
+![Alt text](./img/1475387809022.png)
 
 ---
 
@@ -200,7 +200,7 @@ f.close()
 
 运行脚本后，得到：
 
-![Alt text](./1475419335474.png)
+![Alt text](./img/1475419335474.png)
 
 
 ---
@@ -214,7 +214,7 @@ f.close()
 因为：
 因为这些图片的URL链接只有我登录了印象笔记的账号，我才能看到。也就是说，这些图片，然后其他用户访问我的网站的话，它们是看不到图片的。
 
-![Alt text](./1475419565965.png)
+![Alt text](./img/1475419565965.png)
 
 ---
 
@@ -235,7 +235,7 @@ f.close()
 
 我现在在我的百度云盘里面创建下面的路径：
 
-![Alt text](./1475420676923.png)
+![Alt text](./img/1475420676923.png)
 
 以后，我们就将图片文件都存放在这里面。
 
