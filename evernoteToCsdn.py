@@ -17,3 +17,12 @@ f.close()
 
 image_relative_path = re.findall('<p style="margin: 0 0 1.1em;" class="cye-lm-tag"><img x-evernote-mime="image/png" class="en-media" src="(.*?)"', yinxiang_html, re.S)
 print image_relative_path
+
+print len(a)
+print len(image_relative_path)
+
+if len(a)==len(image_relative_path):
+    for i in range(len(image_relative_path)):
+        image_relative_path[i] = 'https://app.yinxiang.com' + image_relative_path[i]
+
+print image_relative_path
