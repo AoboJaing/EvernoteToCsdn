@@ -313,6 +313,7 @@ http://pan.baidu.com/s/1eSPtP8e
 所以，现在我需要知道一点：
 
 **Q：** **Github ** 是否有对用户的存储空间有限制？
+
 **A：**  这个问题你是多虑了，**GitHub ** 对所有的用户都是没有存储空间上限的，你有无限的存储空间。也就是说：你可以在**Github Page**上面写无数的博文。如果你还是不相信这幸福来得太突然，你可以查看**GitHub Help**里面的[这篇文章](https://help.github.com/articles/what-is-my-disk-quota/)。
 
 ---
